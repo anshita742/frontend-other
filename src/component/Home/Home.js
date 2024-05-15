@@ -31,12 +31,12 @@ const Home = () => {
           <MetaData title="EcoFusion Emporium" />
           <div className="banner">
             <h1>Welcome to EcoFusion Emporium</h1>{" "}
-            {/* <p> Enhanching Soil Health,Enriching Lives </p> */}
-            {/* <a href="#container">
+            <p> Enhanching Soil Health,Enriching Lives </p>
+            <a href="#container">
               <button>
                 Scroll <CgMouse />
               </button>{" "}
-            </a>{" "} */}
+            </a>{" "}
           </div>
           <h2 className="homeHeading"> Featured Products </h2>
           <div className="container" id="container">
